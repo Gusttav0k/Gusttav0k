@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Olá! Meu nome é Marcos Gusttavo
 
-<!--
-**Gusttav0k/Gusttav0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+💻 Apaixonado por tecnologia, redes e programação  
+🚀 Em busca de novos desafios e aprendizados  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
+## ✉️ Contato
+
+📬 Email: marcosgusttavo2@gmail.com
+📸 Instagram: [@m4.gustta](https://www.instagram.com/m4.gustta/)  
