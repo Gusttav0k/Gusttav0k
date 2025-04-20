@@ -9,8 +9,6 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ## ✉️ Contato
 
