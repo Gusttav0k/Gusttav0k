@@ -3,6 +3,8 @@
 🎓 Estudante de Engenharia da Computação  
 💻 Apaixonado por tecnologia, redes e programação  
 🚀 Em busca de novos desafios e aprendizados  
+##
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -14,3 +16,7 @@
 
 📬 Email: marcosgusttavo2@gmail.com
 📸 Instagram: [@m4.gustta](https://www.instagram.com/m4.gustta/)  
+
+##
+
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRteng2eGxlenUzcGdmdTJwMzFmOTR0YWZzbm1wZWk3M3NpNnhnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vh1KrUr6Tvl1RFYYk6/giphy.gif" width="350"/>
